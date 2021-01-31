@@ -3,3 +3,6 @@ test Git Quick demo
 TEAM
     Wissem ABDE Wissem@gmail.com
 
+
+JIRA-597 : Consolidation Company address
+
