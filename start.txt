@@ -3,6 +3,8 @@ test Git Quick demo
 TEAM
     Wissem ABDE Wissem@gmail.com
 
+
+JIRA-597 : Consolidation Company address
 JIRA-455 Technical Characteristics
 JIRA-480 Trim & Fee
 
