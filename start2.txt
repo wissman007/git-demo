@@ -1,3 +1,7 @@
 test Git Quick demo
 
 Test from newbranch 
+
+
+
+My Merge Test 
