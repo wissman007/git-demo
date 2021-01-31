@@ -5,4 +5,6 @@ This is a Demo Git sample
 ## Pupose
 Add Purpose section
 ## Deployment
+Add Deployment Section 
 ## How to contribute
+Add how to contribute section, two modification
